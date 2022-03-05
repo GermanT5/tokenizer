@@ -93,7 +93,7 @@ spm.SentencePieceTrainer.train(
     eos_id=1,
     pad_id=0,
     model_type="unigram",
-    train_extremely_large_corpus=true,
+    train_extremely_large_corpus=True,
 )
 ```
 
